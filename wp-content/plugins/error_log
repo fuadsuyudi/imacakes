@@ -1,0 +1,4 @@
+[28-Feb-2017 01:07:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function add_action() in /home/imacscom/public_html/wp-content/plugins/hello.php on line 60
+[16-Oct-2017 21:03:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function add_action() in /home/imacscom/public_html/wp-content/plugins/hello.php on line 60
+[16-Nov-2017 02:11:13 Asia/Jakarta] PHP Fatal error:  Call to undefined function add_action() in /home/imacscom/public_html/wp-content/plugins/hello.php on line 60
+[20-Nov-2017 19:38:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function add_action() in /home/imacscom/public_html/wp-content/plugins/hello.php on line 60

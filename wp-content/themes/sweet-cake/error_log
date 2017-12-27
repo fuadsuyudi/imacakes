@@ -1,0 +1,9 @@
+[19-Mar-2017 13:05:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/sweet-cake/404.php on line 1
+[24-Mar-2017 11:11:06 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/sweet-cake/404.php on line 1
+[16-Sep-2017 16:57:54 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/sweet-cake/404.php on line 1
+[23-Sep-2017 17:49:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/sweet-cake/archive.php on line 1
+[27-Sep-2017 11:10:51 Asia/Jakarta] PHP Fatal error:  Call to undefined function language_attributes() in /home/imacscom/public_html/wp-content/themes/sweet-cake/header.php on line 2
+[30-Sep-2017 20:44:08 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/sweet-cake/404.php on line 1
+[03-Oct-2017 07:13:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/sweet-cake/archive.php on line 1
+[16-Oct-2017 05:38:09 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/sweet-cake/index.php on line 1
+[17-Oct-2017 12:03:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/sweet-cake/index.php on line 1

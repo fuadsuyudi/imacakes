@@ -1,0 +1,222 @@
+/*
+Theme Name: Sweet Cake
+Theme URI: http://themes.newgraphicses.it
+Description: Wonderful theme for your cake design inspiration.
+Author: Nicdark
+Author URI: http://themes.newgraphicses.it
+Version: 2.1
+License: http://themes.newgraphicses.it
+License URI: http://themes.newgraphicses.it
+*/
+
+@import "css/style.css";
+@import "css/grid.css";
+@import "css/responsive.css";
+@import "css/isotope.css";
+@import "css/prettyPhoto.css";
+@import "css/animate.css";
+@import "css/blog.css";
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+
+#services img {
+    height: 116px;
+    width: 116px;
+}
+
+.logoprice img {
+    height: 176px;
+    width: 176px;
+}
+
+div.progresbar {
+    margin-bottom: 18%;
+}
+
+
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+.wp-caption-text,
+.sticky,
+.gallery-caption,
+.bypostauthor {}
+
+ul.page-numbers {
+    list-style: none;
+    margin: 0;
+}
+
+.page-numbers:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+ul.page-numbers li {
+    display: block;
+    float: left;
+    margin: 0 4px 4px 0;
+    text-align: center;
+}
+
+.page-numbers a,
+.page-numbers span {
+    line-height: 1.6em;
+    display: block;
+    padding: 0 6px;
+    height: 18px;
+    line-height: 18px;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    color: #888;
+}
+
+.page-numbers a span { padding: 0 }
+
+.page-numbers a:hover,
+.page-numbers.current,
+.page-numbers.current:hover {
+    color: #000;
+    background: #f7f7f7;
+    text-decoration: none;
+}
+
+.page-numbers:hover { text-decoration: none }
+
+.page-numbers {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a.next.page-numbers {
+    margin-left: 15px;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+a.page-numbers {
+    background-color: #D49FB0;
+    color: #ffffff;
+    font-family: 'oswaldlight';
+    font-size: 18px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+a.prev.page-numbers {
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+span.page-numbers.current {
+    background-color: #ffffff;
+    color: #D49FB0;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+span.page-numbers.dots {
+    font-size: 18px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+.selected {
+background-color: #CCCCCC!important;
+}

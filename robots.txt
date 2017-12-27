@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /wp-admin/
+Disallow: /1m4Scr4p/
+Disallow: /backup_data/

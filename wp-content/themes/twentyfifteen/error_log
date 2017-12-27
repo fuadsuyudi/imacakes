@@ -1,0 +1,6 @@
+[04-Mar-2017 08:23:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[04-Mar-2017 13:37:45 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_template_directory() in /home/imacscom/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[25-Nov-2017 16:20:31 Asia/Jakarta] PHP Fatal error:  Call to undefined function do_action() in /home/imacscom/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[25-Nov-2017 16:20:56 Asia/Jakarta] PHP Fatal error:  Call to undefined function _e() in /home/imacscom/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 16:21:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function _e() in /home/imacscom/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 16:21:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_header() in /home/imacscom/public_html/wp-content/themes/twentyfifteen/404.php on line 10
